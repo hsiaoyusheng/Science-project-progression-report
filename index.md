@@ -2,7 +2,7 @@
   <html>
    <style>
      p{
-        font-size:50px;
+        font-size:20px;
      }
    </style>
   <main>
