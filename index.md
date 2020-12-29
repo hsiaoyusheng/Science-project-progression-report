@@ -1,8 +1,11 @@
 <!DOCTYPE html>
+<link rel="preconnect" href="https://fonts.gstatic.com">
+<link href="https://fonts.googleapis.com/css2?family=Noto+Sans+TC:wght@100&display=swap" rel="stylesheet"> 
   <html>
    <style>
      p{
-        font-size:20px;
+        font-size: 20px;
+        fotn-family: 'Noto Sans TC', sans-serif;
      }
    </style>
   <main>
