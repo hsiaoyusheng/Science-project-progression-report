@@ -3,7 +3,7 @@
   <head>
     <style>
     head{
-      font-size:15px;
+      font-size:48px;
     {  
   </style>
     <meta http-equiv="content-type" content="text/html; charset=UTF-8">
