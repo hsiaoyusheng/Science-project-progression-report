@@ -1,11 +1,12 @@
 <!DOCTYPE html>
-<html>
-  <head>
-    <style>
-    head{
-      font-size: 48px;
-    }  
-  </style>
+  <html>
+   <style>
+     p{
+        font-size:20px;
+     }
+   </style>
+  <main>
+   <head>
     <meta http-equiv="content-type" content="text/html; charset=UTF-8">
     <title></title>
   </head>
@@ -95,4 +96,5 @@
     <p></p>
     
   </body>
+ </main> 
 </html>
