@@ -74,23 +74,80 @@
     <p><font face="Noto Sans CJK TC, sans-serif"><font style="font-size: 10pt" size="2"><span
             lang="zh-CN">（</span></font></font><font face="Noto Sans CJK TC, sans-serif">1</font><font
         face="Noto Sans CJK TC, sans-serif"><font style="font-size: 10pt" size="2"><span
-            lang="zh-CN">）由弓拉動弦的振動模型：</span></font></font><font face="Noto Sans CJK TC, sans-serif">Helmholtz
-        motion</font></p>
-    <p><font face="Noto Sans CJK TC, sans-serif"><font style="font-size: 10pt" size="2"><span
-            lang="zh-CN">在一般拉動弦的情況下，被拉動的弦會以</span></font></font><font face="Noto Sans CJK TC, sans-serif">Helmholtz
+            lang="zh-CN">）在一般拉動弦的情況下，被拉動的弦會以</span></font></font><font face="Noto Sans CJK TC, sans-serif">H
+        elmholtz
         motion</font><font face="Noto Sans CJK TC, sans-serif"><font style="font-size: 10pt"
-          size="2"><span lang="zh-CN">振動</span></font></font></p>
-    <p style="margin-top: 0.04in; margin-bottom: 0.1in"><font face="Noto Sans CJK TC, sans-serif"><font
+          size="2"><span lang="zh-CN">振動。</span></font></font></p>
+    <p><font face="Noto Sans CJK TC, sans-serif">Helmholtz motion
+      </font><font face="Noto Sans CJK TC, sans-serif"><font style="font-size: 10pt"
+          size="2"><span lang="zh-CN">分為兩個階段：滑動和附著，而弦波上產生的「角」</span></font></font><font
+        face="Noto Sans CJK TC, sans-serif">(corner)</font><font face="Noto Sans CJK TC, sans-serif"><font
+          style="font-size: 10pt" size="2"><span lang="zh-CN">通過弓時即為其分界。在理想情形，角兩
+            測的弦會是直線形的（如左圖）。</span></font></font><font face="Noto Sans CJK TC, sans-serif"><img
+          src="file:///tmp/lu206569tjt30.tmp/lu206569tjt6c_tmp_c30933979a79d7be.gif"
+          name="Image1" width="254" height="146" align="left" border="0"></font></p>
+    <p><font face="Noto Sans CJK TC, sans-serif"><font style="font-size: 10pt" size="2"><span
+            lang="zh-CN">滑動與附著的來自於弦形變的彈力與摩擦力之間。當彈力大於最大靜摩擦力時，弦就會相對弓向後滑動，而當「角」振動方向
+            與弓速相同時，弦又會重新附著於弓上。</span></font></font></p>
+    <p style="margin-top: 0.04in; margin-bottom: 0.1in"><font face="Noto Serif CJK SC"><font
+          style="font-size: 10pt" size="2"><span lang="zh-CN"><font face="Noto Sans CJK TC, sans-serif">（</font></span></font></font><font
+        face="Noto Sans CJK TC, sans-serif">2</font><font face="Noto Serif CJK SC"><font
+          style="font-size: 10pt" size="2"><span lang="zh-CN"><font face="Noto Sans CJK TC, sans-serif">）
+              弦在振動時同時伴隨著扭轉振動</font></span></font></font><font face="Noto Sans CJK TC, sans-serif">(torsional
+        </font><font face="Noto Sans CJK TC, sans-serif">oscillation)</font><font
+        face="Noto Serif CJK SC"><font style="font-size: 10pt" size="2"><span lang="zh-CN"><font
+              face="Noto Sans CJK TC, sans-serif">。
+              在附著階段時，弦的表面會由弓毛的摩擦力提供力矩，進而導致弦以中心軸為中心扭轉振動，產生</font></span></font></font><font
+        face="Noto Sans CJK TC, sans-serif">torsional
+        w</font><font face="Noto Sans CJK TC, sans-serif">a</font><font face="Noto Sans CJK TC, sans-serif">ves</font><font
+        face="Noto Serif CJK SC"><font style="font-size: 10pt" size="2"><span lang="zh-CN"><font
+              face="Noto Sans CJK TC, sans-serif">。</font></span></font></font><font
+        face="Noto Sans CJK TC, sans-serif">Torsional
+        wave</font><font face="Noto Serif CJK SC"><font style="font-size: 10pt"
+          size="2"><span lang="zh-CN"><font face="Noto Sans CJK TC, sans-serif">通
+              常波速較</font></span></font></font><font face="Noto Sans CJK TC, sans-serif">Helmholtz
+        motion</font><font face="Noto Serif CJK SC"><font style="font-size: 10pt"
+          size="2"><span lang="zh-CN"><font face="Noto Sans CJK TC, sans-serif">快</font></span></font></font><font
+        face="Noto Sans CJK TC, sans-serif">2~8</font><font face="Noto Serif CJK SC"><font
+          style="font-size: 10pt" size="2"><span lang="zh-CN"><font face="Noto Sans CJK TC, sans-serif">倍。</font></span></font></font></p>
+    <p style="margin-top: 0.04in; margin-bottom: 0.1in"><font face="Noto Serif CJK SC"><font
+          style="font-size: 10pt" size="2"><span lang="zh-CN"><font face="Noto Sans CJK TC, sans-serif">--
+              BG--在兩年前發表的一篇論文中顯示，扭轉振動產生的聲音僅有在弓速高</font><font face="Noto Sans CJK JP DemiLight, sans-serif">﹑</font><font
+              face="Noto Sans CJK TC, sans-serif">下壓力低時才叫明顯，且產生的聲音為高頻。</font></span></font></font></p>
+    <p style="margin-top: 0.04in; margin-bottom: 0.1in"><font face="Noto Serif CJK SC"><font
+          style="font-size: 10pt" size="2"><span lang="zh-CN"><font face="Noto Sans CJK TC, sans-serif">（</font></span></font></font><font
+        face="Noto Sans CJK TC, sans-serif">3</font><font face="Noto Serif CJK SC"><font
+          style="font-size: 10pt" size="2"><span lang="zh-CN"><font face="Noto Sans CJK TC, sans-serif">）
+              研究弦上波形的方法：在眾多論文中，最常見的方法有三：將弦通電並外加磁場再使用示波器觀測感應電流變化</font><font face="Noto Sans CJK JP DemiLight, sans-serif">﹑</font><font
+              face="Noto Sans CJK TC, sans-serif">使用高速攝影機，以及利用雷射觀察都卜勒效應。</font></span></font></font><font
+        face="Noto Serif CJK SC"><font style="font-size: 10pt" size="2"><span lang="zh-CN"><font
+              face="Noto Sans CJK TC, sans-serif"><img src="file:///tmp/lu206569tjt30.tmp/lu206569tjt6c_tmp_8b7a56f3a2209cb8.gif"
+                name="Image2" width="110" height="160" align="left" border="0"></font></span></font></font></p>
+    <p><img src="file:///tmp/lu206569tjt30.tmp/lu206569tjt6c_tmp_29f081ae5cc88923.gif"
+        name="Image4" width="326" height="138" align="left" border="0">
+      <br>
+      <font face="Noto Sans CJK TC, sans-serif"><font style="font-size: 10pt" size="2"><span
+            lang="zh-CN"><img src="file:///tmp/lu206569tjt30.tmp/lu206569tjt6c_tmp_311b31f07ceb67e5.gif"
+              name="Image3" width="226" height="161" align="left" border="0"></span></font></font>
+    </p>
+    <p><br>
+    </p>
+    <p><br>
+      <br>
+    </p>
+    <h3 class="western"><br>
+      <font face="Noto Sans CJK SC"><span lang="zh-CN"></span></font></h3>
+    <h3 class="western"><br>
+    </h3>
+    <h3 class="western"><font face="Noto Sans CJK SC"><span lang="zh-CN">（二）實驗方法</span></font></h3>
+    <p style="font-weight: normal"><font face="Noto Sans CJK TC, sans-serif"><font
+          style="font-size: 10pt" size="2"><span lang="zh-CN">（</span></font></font><font
+        face="Noto Sans CJK TC, sans-serif">1</font><font face="Noto Sans CJK TC, sans-serif"><font
+          style="font-size: 10pt" size="2"><span lang="zh-CN">）弦的性質測定：</span></font></font></p>
+    <p style="font-weight: normal"><font face="Noto Sans CJK TC, sans-serif"><font
           style="font-size: 10pt" size="2"><span lang="zh-CN">（</span></font></font><font
         face="Noto Sans CJK TC, sans-serif">2</font><font face="Noto Sans CJK TC, sans-serif"><font
-          style="font-size: 10pt" size="2"><span lang="zh-CN">）弦在振動時也伴隨著扭轉振動</span></font></font><font
-        face="Noto Sans CJK TC, sans-serif">(torsional
-        oscillation)</font></p>
-    <p style="margin-top: 0.04in; margin-bottom: 0.1in"><font face="Noto Sans CJK TC, sans-serif"><font
-          style="font-size: 10pt" size="2"><span lang="zh-CN">（</span></font></font><font
-        face="Noto Sans CJK TC, sans-serif">3</font><font face="Noto Sans CJK TC, sans-serif"><font
-          style="font-size: 10pt" size="2"><span lang="zh-CN">）</span></font></font></p>
-    
+          style="font-size: 10pt" size="2"><span lang="zh-CN">）實驗裝置製作</span></font></font></p>
     <p></p>
   </body>
 </html>
